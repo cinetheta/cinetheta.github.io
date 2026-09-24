@@ -18,17 +18,6 @@
 
 ---
 
-
-## 📝 Changelog v1.0.4
-- **HDHub4u Fixes:** Subtitles now correctly load via HubCloud/VidStack track extraction.
-- **NetMirror Improvements:** Implemented silent background pre-warming for Cloudflare verification. No more 37-second waits when clicking a movie!
-- **Smooth Plugin Switcher:** Removed hard app reloads. Changing plugins now smoothly refreshes the UI without a black screen.
-- **Home Screen Overhaul:** 
-  - Added *Pakistani TV Shows (Use MovieBox)*
-  - Filtered *Indian Web Series* to strictly exclude daily TV soaps
-  - Added *USA Series*, *English Series*, and *English Movies* sections.
-- **Anime Renames:** Rebranded internal anime plugins to *Animedekho* and *Toonstream*.
-
 ## 🌐 Overview
 
 **CineTheta** is a modern, privacy-focused open streaming client engineered specifically for Android. Built from the ground up using **Kotlin** and **Jetpack Compose**, it offers a buttery-smooth 120Hz native experience without the bloat of web wrappers or heavy cross-platform frameworks.
